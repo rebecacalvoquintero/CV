@@ -22,8 +22,6 @@ to be continued...
 
 ## EXPERIENCE
 
-![](https://i.imgur.com/X1moM6D.png)
-
 ### Founders & Coders
 
 #### Full-Stack JavaScript Development Course (June - October 2017)
@@ -31,8 +29,6 @@ to be continued...
 Founders & Coders is a co-operative that runs a peer-led and project-based coding bootcamp. The course covers test-driven development using a full JavaScript stack (JavaScript and Node.js) with relational databases, plus aspects of design and project management, agile methodologies and pair programming.
 
 When the course finishes,  I will be mentoring the next cohort and helping improve the curriculum for the future generations at F&C. 
-
-![](https://i.imgur.com/JwBRDSv.jpg)
 
 ### European Bank for Reconstruction and Development 
 
@@ -43,15 +39,9 @@ When the course finishes,  I will be mentoring the next cohort and helping impro
 * Main point of contact for 500 assignees and their families 
 * Point of contact between EBRD’s assignees and the designated UK government offices, Foreign & Commonwealth Office, Home Office and the Diplomatic Section of DVLA.
 
-![](https://i.imgur.com/zNBg3rl.png)
-
-
-
 ### Ernst & Young
 
 #### Tax and Global Mobility Consultant (2013 - 2016)
-
-![](https://i.imgur.com/mzevi6f.png)
 
 ### Amadeus 
 
@@ -59,14 +49,13 @@ When the course finishes,  I will be mentoring the next cohort and helping impro
 
 ## EDUCATION
 
-![](https://i.imgur.com/qEZl0tr.png)
-
-![](https://i.imgur.com/oRu9fZI.png)
-
 #### Law Qualification, Madrid, Spain (2012)
 
-#### M.A. in Law, with intercalated year in Fribourg, Switzerland, 1st.
-#### B.A. in Law and International Relations, 1st.
+#### University of Comillas (ICADE), Spain.
+#### Universite Misericorde, Switzerland
+
+* M.A. in Law, with intercalated year in Fribourg, Switzerland, 1st.
+* B.A. in Law and International Relations, 1st.
 
 ## LANGUAGES
 
