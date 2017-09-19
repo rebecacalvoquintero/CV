@@ -52,7 +52,6 @@ When the course finishes,  I will be mentoring the next cohort and helping impro
 #### Law Qualification, Madrid, Spain (2012)
 
 #### University of Comillas (ICADE), Spain.
-#### Universite Misericorde, Switzerland
 
 * M.A. in Law, with intercalated year in Fribourg, Switzerland, 1st.
 * B.A. in Law and International Relations, 1st.
