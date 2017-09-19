@@ -38,12 +38,14 @@ When the course finishes,  I will be mentoring the next cohort and helping impro
 
 #### Senior Officer in Global Mobility (2016 - May 2017)
 
-![](https://i.imgur.com/zNBg3rl.png)
-
 * Creator of the programme “Assignment Generator” in order to calculate Assignment Costs in a more accurate and time-efficient manner.
 * Accountable for drafting new mobility policies and review of the existing ones
 * Main point of contact for 500 assignees and their families 
 * Point of contact between EBRD’s assignees and the designated UK government offices, Foreign & Commonwealth Office, Home Office and the Diplomatic Section of DVLA.
+
+![](https://i.imgur.com/zNBg3rl.png)
+
+
 
 ### Ernst & Young
 
