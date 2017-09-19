@@ -10,7 +10,7 @@ I consider myself a fast learner who works better when facing challenges. I care
 |Languages   |Frameworks / Libraries  |Testing | Tools  | Databases      | Others
 |:---------:|:---------:|:----------------------:|:---------:|:-------------:|:----------:|
 |Javascript |Express  | Tape      | Git & Github            | PostgresSql | Unity
-Node.js   | Socket.io                 | CodeCov      | Canvas API           |       |Figma |
+Node.js   | Socket.io                 | Istanbul      | Canvas API           |       |Figma |
 |HTML5      | Three.js                 | Travis CI  | TDD       |                | Invision
 |CSS3       |  Cannon.js       |  supertest           |  Heroku            |         | AGS               |
 |     | WebGL    |         |            |          | Accessibility 
