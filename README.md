@@ -22,7 +22,7 @@ to be continued...
 
 ## EXPERIENCE
 
-![](/images/fac-logo.png?raw=true "F&C Logo")
+![](https://i.imgur.com/X1moM6D.png)
 
 ### Founders & Coders
 
