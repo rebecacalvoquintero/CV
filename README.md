@@ -2,7 +2,7 @@
 
 Full-stack JavaScript developer at [Founders & Coders](https://foundersandcoders.com/), a fantastic agile software development bootcamp in London.
 
-I consider myself a fast learner who works better when facing challenges. I care about writing testable and robust code as well as accessible websites and using technology for helping others.
+I consider myself a fast learner who works better when facing challenges and likes desgining creative solutions. I care about writing testable and robust code as well as making technology as accessible as possible. I feel more comfortable working in a team where my ideas can be taken into consideration and where I can be constantly learningg from my peers.
 
 ## Skills
 
@@ -30,22 +30,29 @@ Founders & Coders is a co-operative that runs a peer-led and project-based codin
 
 When the course finishes,  I will be mentoring the next cohort and helping improve the curriculum for the future generations at F&C. 
 
-### [European Bank for Reconstruction and Development](http://www.ebrd.com/home) 
+### [European Bank for Reconstruction and Development](http://www.ebrd.com/home), London 
 
 #### Senior Officer in Global Mobility (2016 - May 2017)
 
-* Creator of the programme “Assignment Generator” in order to calculate Assignment Costs in a more accurate and time-efficient manner.
+* Creator of the tool “Assignment Generator”, a programme built with javascript in order to calculate Assignment Costs in a more accurate and time-efficient manner.
 * Accountable for drafting new mobility policies and review of the existing ones
 * Main point of contact for 500 assignees and their families 
 * Point of contact between EBRD’s assignees and the designated UK government offices, Foreign & Commonwealth Office, Home Office and the Diplomatic Section of DVLA.
 
-### [Ernst & Young](http://www.ey.com/uk/en/home)
+### [Ernst & Young](http://www.ey.com/uk/en/home), Berlin & London
 
 #### Tax and Global Mobility Consultant (2013 - 2016)
 
-### [Amadeus](http://www.amadeus.com/web/amadeus/en_GB-GB/Amadeus-Home/1319477346985-Page-AMAD_HomePpal) 
+* Expertise in the areas of assignment compensation and personal taxation, both domestic and international.
+
+* Responsible for all tax returns, appeals and equalisations within the Mexican, Argentinean and American populations.
+
+### [Amadeus](http://www.amadeus.com/web/amadeus/en_GB-GB/Amadeus-Home/1319477346985-Page-AMAD_HomePpal), Madrid 
 
 #### Internship (2012)
+
+* Learned how to provide with innovative solutions at the local and regional level. 
+* Acquired expertise in developing fair and profitable compensation structures as well as negotiating benefits plans with carriers.
 
 ## EDUCATION
 
