@@ -74,7 +74,6 @@ When the course finishes,  I will be mentoring the next cohort and helping impro
 ## Interests
 
 * Food :pizza:
-* Talking
 * Travelling :airplane:
 * Morphology and Syntax :neckbeard:
 * Concerts :notes:
