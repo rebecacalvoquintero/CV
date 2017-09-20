@@ -2,7 +2,7 @@
 
 Full-stack JavaScript developer at [Founders & Coders](https://foundersandcoders.com/), a fantastic agile software development bootcamp in London.
 
-I consider myself a fast learner who works better when facing challenges and likes desgining creative solutions. I care about writing testable and robust code as well as making technology as accessible as possible. I feel more comfortable working in a team where my ideas can be taken into consideration and where I can be constantly learningg from my peers.
+I consider myself a fast learner who works better when facing challenges and likes desgining creative solutions. I care about writing testable and robust code as well as making technology as accessible as possible. I feel more comfortable working in a team where my ideas can be taken into consideration and where I can be constantly learning from my peers.
 
 ## Skills
 
