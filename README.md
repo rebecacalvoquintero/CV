@@ -22,7 +22,7 @@ to be continued...
 
 ## EXPERIENCE
 
-### Founders & Coders
+### [Founders & Coders](https://foundersandcoders.com/)
 
 #### Full-Stack JavaScript Development Course (June - October 2017)
 
@@ -30,7 +30,7 @@ Founders & Coders is a co-operative that runs a peer-led and project-based codin
 
 When the course finishes,  I will be mentoring the next cohort and helping improve the curriculum for the future generations at F&C. 
 
-### European Bank for Reconstruction and Development 
+### [European Bank for Reconstruction and Development](http://www.ebrd.com/home) 
 
 #### Senior Officer in Global Mobility (2016 - May 2017)
 
@@ -39,11 +39,11 @@ When the course finishes,  I will be mentoring the next cohort and helping impro
 * Main point of contact for 500 assignees and their families 
 * Point of contact between EBRD’s assignees and the designated UK government offices, Foreign & Commonwealth Office, Home Office and the Diplomatic Section of DVLA.
 
-### Ernst & Young
+### [Ernst & Young](http://www.ey.com/uk/en/home)
 
 #### Tax and Global Mobility Consultant (2013 - 2016)
 
-### Amadeus 
+### [Amadeus](http://www.amadeus.com/web/amadeus/en_GB-GB/Amadeus-Home/1319477346985-Page-AMAD_HomePpal) 
 
 #### Internship (2012)
 
